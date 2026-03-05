@@ -1,1 +1,3 @@
-
+In this task, I worked with a relational database and used SQL to retrieve and analyze information from the dataset. The goal was to understand how to interact with structured data and extract meaningful insights through queries.
+I wrote different SQL queries to filter records, sort data, and calculate aggregated values such as totals or counts. I also explored how to combine data from multiple tables using joins in order to obtain more complete results.
+The screenshots included in this folder show the queries I executed and the results returned by the database. Through this exercise, I developed a better understanding of how SQL can be used to efficiently explore and analyze large datasets.
