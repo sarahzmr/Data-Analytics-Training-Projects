@@ -1,1 +1,3 @@
-
+In this task, the focus was on transforming raw data into clear and meaningful visualizations. After examining the dataset, I selected relevant variables that could highlight important patterns and relationships within the data.
+Different types of charts were used to represent the data in a way that makes trends and comparisons easier to understand. The objective was not only to visualize the information but also to communicate insights clearly through the graphs.
+This task helped me understand how effective data visualization can simplify complex information and support better interpretation of the results.
